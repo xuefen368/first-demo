@@ -1,0 +1,1 @@
+console.log('two:注册功能完成')
